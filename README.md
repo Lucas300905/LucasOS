@@ -28,4 +28,8 @@ here
 6. Added mod Package Installer from Kashi
 7. Added Full RW version
 8. Added support for TWRP
+9. Added gphotos unlimited
+10. Added spoof for Max FPS on all games
+11. Added Mod Launcher from Kashi
+12. Added Mod Security Center
    
