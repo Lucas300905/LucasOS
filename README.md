@@ -31,4 +31,8 @@ here
 10. Added spoof for Max FPS on all games
 11. Added Mod Launcher from Kashi
 12. Added Mod Security Center
+13. Added mod PowerKeeper (restrictions removed)
+14. Improved touch sensibility with @Jonathannjss props
+15. Added App Vault Mod
+16. Improved RAM management a little bit
    
