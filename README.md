@@ -36,4 +36,5 @@ here
 15. Added App Vault Mod
 16. Improved RAM management a little bit
 17. Disabled Flag Secure (can take screenshot on any app)
+18. Added Joyose mod
    
