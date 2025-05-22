@@ -23,7 +23,6 @@ here
 1. Added Engineering Preloader [click here for more info](https://wiki.itsvixano.me/device_specific/preloader_xaga/)
 2. Hybrid rom (can be installed via fastboot and TWRP)
 3. Debloated
-4. Play Integrity passed by default (just make sure you have the latest integrity fix apk)
 5. Signature Verification Removed (can install mod system apps)
 6. Added mod Package Installer from Kashi
 7. Added Full RW version
