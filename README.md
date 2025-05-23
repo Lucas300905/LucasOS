@@ -25,7 +25,6 @@ here
 3. Debloated
 5. Signature Verification Removed (can install mod system apps)
 6. Added mod Package Installer from Kashi
-7. Added Full RW version
 8. Added support for TWRP
 9. Added gphotos unlimited
 10. Added spoof for Max FPS on all games
@@ -37,4 +36,5 @@ here
 16. Improved RAM management a little bit
 17. Disabled Flag Secure (can take screenshot on any app)
 18. Added Joyose mod
+19. Changed governor to schedutil
    
