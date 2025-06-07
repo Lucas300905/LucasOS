@@ -1,1 +1,16 @@
-.
+Added Engineering Preloader 
+Hybrid rom (can be installed via fastboot and TWRP)
+Debloated
+Signature Verification Removed (can install mod system apps)
+Added mod Package Installer from Kashi
+Added support for TWRP
+Added gphotos unlimited
+Added spoof for Max FPS on all games
+Added Mod Launcher from Kashi
+Added Mod Security Center
+Added mod PowerKeeper (restrictions removed)
+Improved touch sensibility with @Jonathannjss props
+Improved RAM management a little bit
+Disabled Flag Secure (can take screenshot on any app)
+Added Joyose mod
+Changed governor to schedutil
