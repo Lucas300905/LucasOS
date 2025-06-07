@@ -32,7 +32,6 @@ here
 12. Added Mod Security Center
 13. Added mod PowerKeeper (restrictions removed)
 14. Improved touch sensibility with @Jonathannjss props
-15. Added App Vault Mod
 16. Improved RAM management a little bit
 17. Disabled Flag Secure (can take screenshot on any app)
 18. Added Joyose mod
