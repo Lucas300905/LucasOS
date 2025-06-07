@@ -20,5 +20,5 @@ here
 here
 
 ## Changelog:
-click here
+[click here](https://github.com/Lucas300905/LucasOS/blob/main/Changelog%20%7C%20Features)
    
