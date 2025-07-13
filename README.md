@@ -14,7 +14,7 @@ Poco X4 GT, Redmi Note 11t pro (+) and Redmi K50i (xaga)
 Releases
 
 ## Guide to Flash:
-here
+[here](https://telegra.ph/Guide-for-Installation-10-31-2)
 
 ## Screenshots:
 here
