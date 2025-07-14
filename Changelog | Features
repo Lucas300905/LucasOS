@@ -1,4 +1,5 @@
-## LucasOS V1.0 changelog
+LucasOS V1.0 changelog:
+
 First Hybrid rom for xaga! (can be flashed with twrp/fastboot)
 Added Gphotos unlimited storage
 Removed Signature Verification (can install any mod system app)
@@ -28,3 +29,9 @@ Super Debloated
 Preloader added
 Play Store Certified by default (if you root just hide it)
 Added Show Wi-fi Password on Wi-fi Settings
+
+LucasOS V1.1 changelog:
+Changed the Package Installer from google to Kashi's mod one
+Removed toolkit SIM app
+Added Android Auto back
+Updated Free fire spoof to 120 fps
