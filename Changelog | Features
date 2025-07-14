@@ -1,31 +1,57 @@
-Added Engineering Preloader 
-Debloated
-Signature Verification Removed (can install mod system apps)
-Added mod Package Installer from Kashi
-Added support for TWRP
-Added gphotos unlimited
-Added spoof for Max FPS on all games (need settings apk to work)
-Added Mod Launcher from Kashi
-Added Mod Security Center
-Added mod PowerKeeper (restrictions removed)
-Improved touch sensibility with @Jonathannjss props
-Improved RAM management a little bit
-Disabled Flag Secure (can take screenshot on any app)
-Added Joyose mod
-Changed governor to schedutil
-add official IOS battery icon
-add wallpaper
-Add more refresh rate options
+1- First Hybrid rom for xaga! (can be flashed with twrp/fastboot)
 
-To do:
-Add icon pack
-Do the about phone page on settings.apk
-Do the LucasLasbs page (add gphotos spoof, disabled signature verification, disabled flag secure, max fps and others toggles)
-Adjust volume design
-Adjust navbar gesture size
-Add IOS dynamic island 
-add screen recorder mod (TEST)
-Add sperm media player (TEST)
-Add clock options design on status bar (TEST)
-Do the bootanimation and Logo image
+2- Added Gphotos unlimited storage
 
+3- Removed Signature Verification (can install any mod system app)
+
+4- Added full TWRP Support (Can read storage)
+
+5- Disabled Secure Flag (Bypass screenshot restrictions)
+
+6- Added Mod Launcher with IOS style recent and other features
+
+7- Added Security Mod by @kashis_cringey_stuffs
+
+8- Added Joyose Mod by @lokallion
+
+9- Added Spoof to Max FPS on lots of games (cod, pubg, bgmi, ff, MLBB...)
+
+10- Added touch sensibility props from @Jonathannjss
+
+11- Added more Refresh Rate options
+
+12- Added Screen Recorder Mod up to 144hz and 1200 Mbps thanks to @Cazymods
+
+13- Added Exclusive Control Center Mod
+
+14- Added Dynamic Island (smaller)
+
+15- Added Mi Pad smaller Volume with Blur
+
+16- Removed Status Bar to Control Center Animation
+
+17- Added Sperm Media Player 
+
+18- Added 5 Clock Options on Status Bar
+
+19- Added Aosp Gesture Navbar 
+
+20- Added Monet Overlay
+
+21- Added Official IOS icons on Status Bar (Battery, Wi-fi,...)
+
+22- Added MPP icons theme (with animations)
+
+23- Added custom Bootanimation and Logo Mi
+
+24- Added IOS font 
+
+25- Added Gboard Lite latest version
+
+26- Super Debloated
+
+27- Preloader added
+
+28- Play Store Certified by default (if you root just hide it)
+
+29- Added Show Wi-fi Password on Wi-fi Settings
