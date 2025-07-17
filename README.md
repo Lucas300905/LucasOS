@@ -41,20 +41,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## 🛠 Installation Guide
 
-**Requirements:**
-- Unlocked bootloader
-- TWRP recovery for Xaga installed
-
-**Steps:**
-1. Boot into TWRP
-2. Wipe: `Dalvik / ART Cache`, `System`, `Data`, `Cache`
-3. Flash `LucasOS-v1.1.zip`
-4. (Optional) Flash `Magisk.zip` for root access
-5. Reboot to system
-
-⚠️ *Format Data is recommended if you're coming from a different ROM/base.*
-
----
+[View Installation Guide](Installation)
 
 ## 🐞 Known Bugs
 
