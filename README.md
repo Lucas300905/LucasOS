@@ -23,22 +23,19 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## 🔄 Changelog
 
-Check the full changelog here:  
-📝 [LucasOS v1.1 - Changelog](Changelog)
+📝 [View Changelog](Changelog)
 
 ---
 
 ## 🖼️ Screenshots
-
-See all screenshots here:  
+ 
 📂 [View Screenshots](Screenshots/README.md)
 
 ---
 
 ## 📥 Download
 
-- ⬇️ ROM (ZIP): [LucasOS v1.1 - Download](https://link-para-rom)
-- 🛠 TWRP Recovery (Recommended): [Download TWRP](https://link-twrp)
+- ⬇️ [Download ROM](https://link-para-rom)
 
 ---
 
