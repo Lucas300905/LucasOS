@@ -7,7 +7,7 @@
 - Don't forget to backup all your important data (phone will be formatted during the installation)
 - **It is Highly recommended to flash [stock rom](https://drive.google.com/file/d/1jNbrxnC9LbaQbsv2zJaP2yGd_9vKvMVU/view?usp=sharing) before flashing LucasOS to avoid any problem, especially if you are coming from an AOSP**
 
-**Installation: (Fastboot or TWRP)**
+**Installation: (via Fastboot or via TWRP)**
 
 **Fastboot Method:**
 1. On your Computer, download [LucasOS](link) and extract the zip
