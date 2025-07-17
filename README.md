@@ -37,7 +37,7 @@ See all screenshots here:
 ## 🔄 Changelog
 
 Check the full changelog here:  
-📝 [LucasOS v1.1 - Changelog](Changelog|Features)
+📝 [LucasOS v1.1 - Changelog](Changelog)
 
 ---
 
