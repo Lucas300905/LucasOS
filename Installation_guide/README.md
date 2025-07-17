@@ -55,7 +55,7 @@
 **TWRP Method**
 1. On your phone, **download LucasOS** and **do NOT extract the zip** (TWRP will read the rom in "zip")
 2. Move LucasOS to where you want to flash it (can be on Internal Storage or Pen drive...)
-3. **Hold `power button` and `volume up` simultaneously** until you see the logo screen (POCO, Redmi or Mi) and then immediately **release `power button` and continue holding volume up`** until you see the "TWRP screen"
+3. **Hold `power button` and `volume up` simultaneously** until you see the logo screen (POCO, Redmi or Mi) and then immediately **release `power button` and continue holding `volume up`** until you see the "TWRP screen"
 4. If this is your first time booting into TWRP, it will probably be everything in chinese. To change it, click on the **third block on the right column**, then click on the **globe icon on the right** and select the idiom you prefer
 5. In the "home" page of TWRP click on `Install` block
 6. **Find the "LucasOS 1.1.zip"** and swipe to **flash it**
