@@ -28,6 +28,7 @@
 8. The flashing process of all images will start and in a few minutes your device will conclude the installation and automatically reboot. Just wait patiently! (usually this step takes between 3-7 minutes)
 
 
+---
 
 
 **Fastboot Method (Linux)**
