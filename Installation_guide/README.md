@@ -60,7 +60,7 @@
 5. In the "home" page of TWRP click on `Install` block
 6. **Find the "LucasOS 1.1.zip"** and swipe to **flash it**
 7. Flashing process will start and you will see "xiaomi.eu updater" message and below a text saying "Flashing firmware partitions...". Just wait until flash is complete (it usually takes between 1 or 2 minutes)
-8. When the flash is complete you will see the text "script succeeded: result was [0]. And if you see 3 red lines of error saying "Failed to mount "/system_root" (Invalid Argument)... don't worry, everything went fined.
+8. When the flash is complete you will see the text "script succeeded: result was [0]. And if you see 3 red lines of error saying "Failed to mount "/system_root" (Invalid Argument)... don't worry, everything went fine.
 9. Go back to the "home" page of TWRP
 10. **Click on `Reboot`** block and **select `Recovery`**
 11. Your phone will reboot to TWRP again, then on the "home" page of TWRP **select the `Wipe`** block
