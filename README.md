@@ -10,7 +10,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 - 🚀 Spoof to get **MAX FPS on games** (Free Fire:120 fps, Cod Mobile: 120 on all modes,...)
 - 🔧 Spoof to get **Unlimited Gphotos Storage**
-- 📱 Bypassed Screenshots Restrictions **Screenshot or Record any app**
+- 📱 Bypassed Screenshots Restrictions (**Screenshot or Record any app**)
 - 🧹 **Debloated**: Removed all unecessary apps and services 
 - 🎨 **Unique Theme** (IOS battery icon, icon pack with animations, custom bootanimation...)
 - ⚙️ Fastboot script with **pre-root options and TWRP**
