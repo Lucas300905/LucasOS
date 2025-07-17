@@ -58,6 +58,11 @@
 3. **Hold `power button` and `volume up` simultaneously** until you see the logo screen (POCO, Redmi or Mi) and then immediately **release `power button` and continue holding volume up`** until you see the "TWRP screen"
 4. If this is your first time booting into TWRP, it will probably be everything in chinese. To change it, click on the **third block on the right column**, then click on the **globe icon on the right** and select the idiom you prefer
 5. In the "home" page of TWRP click on `Install` block
-6. **Find the "LucasOS 1.1.zip"** and **flash it**
+6. **Find the "LucasOS 1.1.zip"** and swipe to **flash it**
 7. Flashing process will start and you will see "xiaomi.eu updater" message and below a text saying "Flashing firmware partitions...". Just wait until flash is complete (it usually takes between 1 or 2 minutes)
-8. 
+8. When the flash is complete you will see the text "script succeeded: result was [0] And if you see 3 red lines of error saying "Failed to mount "/system_root" (Invalid Argument)... don't worry, everything went fined.
+9. Go back to the "home" page of TWRP
+10. **Click on `Reboot`** block and **select `Recovery`**
+11. Your phone will reboot to TWRP again, then on the "home" page of TWRP **select the `Wipe`** block
+12. **Click on `Format Data`** and **type "yes" and cofirm**
+13. Check if it formatted succesfully and **click on "reboot system"** and wait until it boots!
