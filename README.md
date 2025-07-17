@@ -2,11 +2,11 @@
 
 ![LucasOS Banner](https://github.com/user-attachments/assets/6c7f74be-4ffd-4152-8fd6-a4e54d64409a)
 
-LucasOS is a custom ROM based on **HyperOS 1 (ULOCNXM OS1.0.5)** designed exclusively for the Poco X4 GT (codename: *xaga*). This ROM aims to deliver a clean, optimized, and smooth user experience with thoughtful tweaks and bloatware removal, while keeping the core MIUI/HyperOS functionalities.
+LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5)** designed for Poco X4 GT/Redmi K50i/Redmi Note 11t pro (+) (codename: *xaga/xagain/xagapro*). This ROM aims to deliver a clean, optimized, and smooth user experience with thoughtful tweaks and bloatware removal, while keeping important HyperOS functionalities.
 
 ---
 
-## ✨ Features
+## ✨ Main Features
 
 - 🚀 Based on **ULOCNXM OS1.0.5 (HyperOS 1 - CN build)**
 - 🔧 Pre-rooted (optional via Magisk)
