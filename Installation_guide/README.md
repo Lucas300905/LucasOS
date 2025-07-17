@@ -9,6 +9,7 @@
 
 **Installation: (via Fastboot or via TWRP)**
 
+
 **Fastboot Method (Windows)**
 1. On your Computer, download [LucasOS](link) and extract the zip
 2. On your Phone, hold `power button` and `volume down` simultaneously until you see the "Fastboot screen" 
@@ -27,11 +28,13 @@
 8. The flashing process of all images will start and in a few minutes your device will conclude the installation and automatically reboot. Just wait patiently! (usually this step takes between 3-7 minutes)
 
 
+
+
 **Fastboot Method (Linux)**
 1. On your Computer, download [LucasOS](link) and extract the zip
 2. On your Phone, hold `power button` and `volume down` simultaneously until you see the "Fastboot screen" 
 3. Connect your phone with a USB cable on your Computer
-4. Inside the rom folder, already extracted, **find `windows.bat`** and **click it twice**
+4. Inside the rom folder, already extracted, **right click on your mouse and click on open a terminal here** and inside terminal you type **`./linux.sh`**   
 5. The script will run and you will see a question asking for "boot type".
   - If you want your device to be pre-rooted with **Magisk Alpha**, **type `1`** and **hit `ENTER`**
   - If you want your device to be **with no root**, **type `2`** and **hit `ENTER`**
