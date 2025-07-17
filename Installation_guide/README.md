@@ -47,3 +47,17 @@
   - If you are just updating from a previous version of this rom and **don't want to format**, **type `1`** and **hit `ENTER`**
   - If this is your **first time flashing this rom** or if you are **coming from another rom** you **MUST format your phone**. So **type `2`** and **hit `ENTER`**
 8. The flashing process of all images will start and in a few minutes your device will conclude the installation and automatically reboot. Just wait patiently! (usually this step takes between 3-7 minutes)
+
+
+---
+
+
+**TWRP Method**
+1. On your phone, **download LucasOS** and **do NOT extract the zip** (TWRP will read the rom in "zip")
+2. Move LucasOS to where you want to flash it (can be on Internal Storage or Pen drive...)
+3. **Hold `power button` and `volume up` simultaneously** until you see the logo screen (POCO, Redmi or Mi) and then immediately **release `power button` and continue holding volume up`** until you see the "TWRP screen"
+4. If this is your first time booting into TWRP, it will probably be everything in chinese. To change it, click on the **third block on the right column**, then click on the **globe icon on the right** and select the idiom you prefer
+5. In the "home" page of TWRP click on `Install` block
+6. **Find the "LucasOS 1.1.zip"** and **flash it**
+7. Flashing process will start and you will see "xiaomi.eu updater" message and below a text saying "Flashing firmware partitions...". Just wait until flash is complete (it usually takes between 1 or 2 minutes)
+8. 
