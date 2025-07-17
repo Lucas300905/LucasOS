@@ -1,6 +1,6 @@
 # 📱 LucasOS v1.1 - for Poco X4 GT (Xaga)
 
-![LucasOS Banner](https://link-para-banner-ou-deixe-vazio)
+![LucasOS Banner](https://github.com/user-attachments/assets/6c7f74be-4ffd-4152-8fd6-a4e54d64409a)
 
 LucasOS is a custom ROM based on **HyperOS 1 (ULOCNXM OS1.0.5)** designed exclusively for the Poco X4 GT (codename: *xaga*). This ROM aims to deliver a clean, optimized, and smooth user experience with thoughtful tweaks and bloatware removal, while keeping the core MIUI/HyperOS functionalities.
 
