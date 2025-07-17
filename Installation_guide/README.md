@@ -5,7 +5,7 @@
 
 **Advices:**
 - Don't forget to backup all your important data (phone will be formatted during the installation)
-- **It is Highly recommended to flash [stock rom](https://drive.google.com/file/d/1jNbrxnC9LbaQbsv2zJaP2yGd_9vKvMVU/view?usp=sharing)before flashing LucasOS to avoid any problem, especially if you are coming from an AOSP**
+- **It is Highly recommended to flash [stock rom](https://drive.google.com/file/d/1jNbrxnC9LbaQbsv2zJaP2yGd_9vKvMVU/view?usp=sharing) before flashing LucasOS to avoid any problem, especially if you are coming from an AOSP**
 
 **Steps:**
 1. Boot into TWRP
