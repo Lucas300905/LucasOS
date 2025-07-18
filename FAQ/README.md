@@ -8,7 +8,7 @@ A: Yes this rom is Hybrid (can be flashed with TWRP and fastboot).
 
 Yes it's safe to flash trough TWRP (I did lots of tests to make sure everything works fine).
 
-The main advantage and reason of why I made this rom Hybrid is because there are some people that don't have always a PC with them so it's good because you can flash it without the need of a PC. And also the flash process is faster using twrp. And if you dont like this method you can always use fastboot too.
+The main advantage and reason of why I made this rom Hybrid is because there are some people that don't have always a computer with them so it's good because you can flash it without the need of a PC. And also the flash process is faster using twrp. And if you dont like this method you can always use fastboot too.
 
 ---
 
