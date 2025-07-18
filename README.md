@@ -6,7 +6,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ---
 
-## ✨ Main Features
+## 🔥 Main Features
 
 - 🎮 Spoof to get **MAX FPS on games** (Free Fire:120 fps, Cod Mobile: 120 on all modes,...)
 - 📷 Spoof to get **Unlimited Gphotos Storage**
@@ -21,19 +21,19 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ---
 
-## 📝 Changelog
+## 📜 Changelog
 
  [View Changelog](Changelog)
 
 ---
 
-## 📂 Screenshots
+## 🎥 Screenshots
  
  [View Screenshots](Screenshots/README.md)
 
 ---
 
-## ⬇️ Download Links
+## 🌐 Download Links
 (Google Drive has downloads limit so I put 3 links, if some isn't working use other)
 **(If you don't know what is EROFS and EXT4 just download EROFS. If you want to know more please read FAQ)**
 
@@ -49,7 +49,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ---
 
-## Integrity and Certification
+## 🔐 Integrity and Certification
 
 **LucasOS passes Basic integrity by default, and you can get strong integrity by following this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26)** 
 
