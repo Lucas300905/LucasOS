@@ -62,11 +62,21 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## 🙏 Credits
 
-- Xiaomi.eu / MIUI CN community
-- TWRP Team & maintainer for Xaga
-- AOSP/Android Open Source Project
-- DNA/MT Manager for ROM modification
-- Special thanks to all testers and contributors!
+Thanks @MMETMAmods for all tutorials and files
+
+Thanks @miuimodcollection for all tutorials and files 
+
+Thanks @ShahinHyperMods for all tutorials and files
+
+Thanks @cazymods for all tutorials and files
+
+
+
+I wanted to give special thanks to @bharatgojiya for all the help with the rom, framework, settings, launcher and much more. I am very thankfull for everything you done!
+
+Thanks to @Jonathannjss. Without him this project wouldn't be possible at all. Appreciate all the help you gave me, all the files and knoledge provided.
+
+Also a special thanks to @EroSennin120 for all the help with the rom, building the bootanimation, control center, settings app, testing and much more.
 
 ---
 
