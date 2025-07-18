@@ -38,7 +38,7 @@ A: LucasOS is based on xiaomi.eu build, so it doesn't have notification delay at
 
 ---
 
-Q: Is LucasOS Erofs or EXT4? Why there are 6 download links?? Which one do I choose?
+Q: Is LucasOS EROFS or EXT4? Why there are 6 download links?? Which one do I choose?
 
 A: I made 2 versions of LucasOS and they are exactly the same except for the fact that one is made on EROFS filesystem and the other is made on EXT4 filesystem. If you don't know what EROFS and EXT4 means just choose the EROFS version. For those who don't know EROFS and EXT4 are two types of filesystem, and they have some differences but the main one is that the EXT4 can make partitions with Read and Write permissions (RW), that means you can make direct changes into the system, like deleting any app or file you want in any place (product,system,vendor,...) **(But be very carefull with the modifications you do, because if you made any wrong modification you can get a bootloop and will have to format your phone to fix it)**
 
