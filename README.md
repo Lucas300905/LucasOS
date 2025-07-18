@@ -45,7 +45,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## 🛠 Installation Guide
 
-[View Installation Guide](Installation_guide)
+[View Installation Guide](Installation_guide/README.md)
 
 ---
 
