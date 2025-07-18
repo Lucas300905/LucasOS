@@ -6,7 +6,7 @@
 **Advices:**
 - Don't forget to backup all your important data (phone will be formatted during the installation)
 - **It is Highly recommended to flash stock rom before flashing LucasOS to avoid any problem, especially if you are coming from an AOSP**
-- I uploaded the stock rom to make it easier for you guys to download from here, I made 3 links because google drive has downloads limitation, so if you get error with one link try other one. [Stock ROM](https://drive.google.com/file/d/1jNbrxnC9LbaQbsv2zJaP2yGd_9vKvMVU/view?usp=sharing) [Stock ROM](https://drive.google.com/file/d/1zuPISCT4Tfy9PKitGdBerB9sAW-ZvQNa/view?usp=sharing) [Stock ROM](https://drive.google.com/file/d/1shCHXW82TH5j2Tk3EGYh5AXa6YD4tVpF/view?usp=sharing)
+- I uploaded the stock rom to make it easier for you guys to download from here, Google Drive has downloads limit so I put 3 links, if some isn't working use other. [Stock ROM](https://drive.google.com/file/d/1jNbrxnC9LbaQbsv2zJaP2yGd_9vKvMVU/view?usp=sharing) [Stock ROM](https://drive.google.com/file/d/1zuPISCT4Tfy9PKitGdBerB9sAW-ZvQNa/view?usp=sharing) [Stock ROM](https://drive.google.com/file/d/1shCHXW82TH5j2Tk3EGYh5AXa6YD4tVpF/view?usp=sharing)
 
 **Installation: (via Fastboot or via TWRP)**
 
