@@ -34,7 +34,7 @@ The rom comes with basic integrity passing by default, that means you are able t
 
 Q: Is this Rom CN base? Does it have notification delay?
 
-A: LucasOS is based on xiaomi.eu build, so it doesn't have notification delay at all and several other CN problems that are solved by xiaomi.eu team
+A: LucasOS is based on xiaomi.eu build, so it doesn't have notification delay at all and several other CN problems that were solved by xiaomi.eu team
 
 ---
 
