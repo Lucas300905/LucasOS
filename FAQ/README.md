@@ -12,7 +12,7 @@ The main advantage and reason of why I made this rom Hybrid is because there are
 
 ---
 
-Q: Does this Rom has TWRP? Is there TWRP for kernel  .198? You made the TWRP? Can I use it on other roms?
+Q: Does this Rom have TWRP? Is there TWRP for kernel  .198? You made the TWRP? Can I use it on other roms?
 
 A: Yes, this rom has TWRP and can totally read storage and work fine.
 
