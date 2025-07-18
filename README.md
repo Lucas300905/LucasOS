@@ -50,17 +50,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## 🙋 FAQ
 
-**Q: Is this compatible with the Redmi Note 11T Pro / Pro+?**  
-→ No. This is only for the Poco X4 GT (*Xaga*).
-
-**Q: Does this include Google Apps (GApps)?**  
-→ No. Use a GApps package like NikGApps or FlameGApps.
-
-**Q: Is root access available?**  
-→ Optional. You can flash Magisk separately.
-
-**Q: Can I update via OTA in the future?**  
-→ No OTA. Updates will be released manually on GitHub.
+[FAQ](FAQ/README.md)
 
 ---
 
