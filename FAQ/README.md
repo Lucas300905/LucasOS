@@ -28,7 +28,7 @@ Q: Can I root LucasOS? How can I certify it and use bank apps?
 
 A: Yes, you can root the rom with any method you want.
 
-The rom comes with basic integrity passing by default, that means you are able to get strong integrity by your own by following this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26) and after that you probably won't have any more problems with root and banking apps. However, if you still need to hide a little bit better for some reason follow this other [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26)
+The rom comes with basic integrity passing by default, that means you are able to get strong integrity by your own by following this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26) and after that you probably won't have any more problems with root and banking apps. However, if you still need to hide a little bit better for some reason follow this other [guide](https://telegra.ph/Hide-Root--Banking-Fix-05-27)
 
 ---
 
