@@ -35,10 +35,11 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## ⬇️ Download Links
 (Google Drive has downloads limit so I put 3 links, if some isn't working use other)
+**(If you don't know what is EROFS and EXT4 just download EROFS. If you want to know more please read FAQ)**
 
-- [Link 1](link) 
-- [Link 2](link) 
-- [Link 3](link)
+- [EROFS - Link 1](link)      [EXT4 - Link 1](link)
+- [EROFS - Link 2](link)      [EXT4 - Link 2](link)
+- [EROFS - Link 3](link)      [EXT4 - Link 3](link)
 
 ---
 
@@ -82,7 +83,7 @@ Also a special thanks to @EroSennin120 for all the help with the rom, building t
 
 ## 📬 Contact
 
-please feel free to tell me if you found any or if you just want to give feedback or suggestions for updates. You can contact me on Telegram: @Lucas_3009 or at my group support: @Pocox4gtbrasil20
+Please feel free to tell me if you found any bug or if you just want to give some feedback or suggestions for updates. You can contact me on Telegram on my personal: @Lucas_3009 or at my group support: @Pocox4gtbrasil20
 
 ---
 
