@@ -82,8 +82,7 @@ Also a special thanks to @EroSennin120 for all the help with the rom, building t
 
 ## 📬 Contact
 
-Feel free to open an [Issue](https://github.com/...) or reach me on Telegram:  
-[@YourTelegramHandle](https://t.me/YourTelegramHandle)
+please feel free to tell me if you found any or if you just want to give feedback or suggestions for updates. You can contact me on Telegram: @Lucas_3009 or at my group support: @Pocox4gtbrasil20
 
 ---
 
