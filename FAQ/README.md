@@ -50,6 +50,6 @@ Q: Does LucasOS have Multi-language? Does NFC works? Any bugs in the rom?
 
 A: Yes, LucasOS have multi-language support, you can choose whatever idiom you prefer.
 
-Yes, NFC works just fine, just make sure you followed the integrity [guide](link) to be able to do the payments without any problem
+Yes, NFC works just fine, just make sure you followed the integrity [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26) to be able to do the payments without any problem
 
 No, I didn't find any bug in the rom, however please feel free to tell me if you found any or if you just want to give feedback or suggestions for updates. You can contact me on Telegram: @Lucas_3009 or at my group support: @Pocox4gtbrasil20
