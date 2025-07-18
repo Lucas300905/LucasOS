@@ -20,7 +20,7 @@ Yes there is a TWRP version that is compatible with kernel 5.10.198
 
 No I didn't make this TWRP, I extracted from latest OpMod. 
 
-Yes you can use this TWRP on any HyperOs that comes with kernel 5.10.198, however this version of TWRP doesn't support automatic Decryption, so if you just flash it in other roms it won't read storage. To make it read storage you have to modify the encryption of the rom itself.
+Yes you can use this TWRP on any HyperOS that comes with kernel 5.10.198, however this version of TWRP doesn't support automatic Decryption, so if you just flash it in other roms it won't read storage. To make it read storage you have to modify the encryption of the rom itself.
 
 ---
 
