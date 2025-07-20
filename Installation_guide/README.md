@@ -36,18 +36,19 @@
 1. On your Computer, download [LucasOS](link) and extract the zip
 2. On your Phone, hold `power button` and `volume down` simultaneously until you see the "Fastboot screen" 
 3. Connect your phone with a USB cable on your Computer
-4. Inside the rom folder, already extracted, **right click on your mouse and click on open a terminal here** and inside terminal you type **`./linux.sh`**   
-5. The script will run and you will see a question asking for "boot type".
+4. Inside the rom folder, already extracted, **right click on your mouse and click on open a terminal here** and inside terminal you type **`chmod +x linux.sh`**
+5. Still on terminal, **type `./linux.sh`** to execute the installation script   
+6. The script will run and you will see a question asking for "boot type".
   - If you want your device to be pre-rooted with **Magisk Alpha**, **type `1`** and **hit `ENTER`**
   - If you want your device to be **with no root**, **type `2`** and **hit `ENTER`**
   - If you want your device to be pre-rooted with **KernelSU**, **type `3`** and **hit `ENTER`**
-6. After that you will see a question asking for "Recovery type".
+7. After that you will see a question asking for "Recovery type".
   - If you want your device to be with **stock xiaomi recovery**, **type `1`** and **hit `ENTER`**
   - If you want your device to be with **TWRP**, **type `2`** and **hit `ENTER`**
-7. After that you will see a question about formatting your phone or not.
+8. After that you will see a question about formatting your phone or not.
   - If you are just updating from a previous version of this rom and **don't want to format**, **type `1`** and **hit `ENTER`**
   - If this is your **first time flashing this rom** or if you are **coming from another rom** you **MUST format your phone**. So **type `2`** and **hit `ENTER`**
-8. The flashing process of all images will start and in a few minutes your device will conclude the installation and automatically reboot. Just wait patiently! (usually this step takes between 3-7 minutes)
+9. The flashing process of all images will start and in a few minutes your device will conclude the installation and automatically reboot. Just wait patiently! (usually this step takes between minutes)
 
 
 ---
