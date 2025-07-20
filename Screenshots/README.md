@@ -28,4 +28,6 @@
 
 <img src="https://github.com/user-attachments/assets/f9f63cf5-8e1c-4a5b-a553-b3b7b55f7bcd" alt="Screenshot 1" width="360">
 
+<img src="https://github.com/user-attachments/assets/fb9ad964-7111-4c1c-acfc-fe81cd7eba6b" alt="Screenshot 1" width="360">
+
 
