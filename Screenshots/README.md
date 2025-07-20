@@ -34,6 +34,7 @@
 
 <img src="https://github.com/user-attachments/assets/4fb4d156-5c3e-4d06-a8e0-bba7b5c19e95" alt="Screenshot 1" width="360">
 
+<img src="https://github.com/user-attachments/assets/98d5d6f2-402d-42c1-b131-f2c3a3887a6f" alt="Screenshot 1" width="360">
 
 
 
