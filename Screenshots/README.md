@@ -60,41 +60,6 @@
 
 <img src="https://github.com/user-attachments/assets/3bb57661-e27a-47ad-93d7-9b76663e83f9" alt="Screenshot 1" width="360">
 
+<img src="https://github.com/user-attachments/assets/729ec5db-bca2-458d-9ada-b56b34bf5576" alt="Screenshot 1" width="360">
+
 <img src="https://github.com/user-attachments/assets/1eabcc8c-a35b-40ee-bdc5-1c5c29afc1db" alt="Screenshot 1" width="360">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
