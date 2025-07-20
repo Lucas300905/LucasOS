@@ -48,7 +48,7 @@
 
 <img src="https://github.com/user-attachments/assets/7901ea3e-9e7e-4b0f-a8ae-97826ebbfe0b" alt="Screenshot 1" width="360">
 
-<img src="https://github.com/user-attachments/assets/391d9aa0-c02b-4462-b095-e471aa7b4b88" alt="Screenshot 1" width="360">
+<img src="https://github.com/user-attachments/assets/391d9aa0-c02b-4462-b095-e471aa7b4b88" alt="Screenshot 1" height="360">
 
 
 
