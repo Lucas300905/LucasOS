@@ -21,7 +21,6 @@
 - Added Sperm Media Player 
 - Added 5 Clock Options on Status Bar
 - Made Navbar smaller just like aosp
-- Added Monet Overlay
 - Added Official IOS icons on Status Bar (Battery, Wi-fi,...)
 - Added icon theme (with animations)
 - Added custom Bootanimation and Logo Mi
