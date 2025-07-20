@@ -2,19 +2,5 @@
 
 <img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
 
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
 
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
-
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
-
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
-
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
-
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
-
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
-
-<img src="https://github.com/user-attachments/assets/48ac40b7-8000-4deb-a1a4-74bcdf381cfc" alt="Screenshot 1" width="360">
 
