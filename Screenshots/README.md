@@ -38,6 +38,8 @@
 
 <img src="https://github.com/user-attachments/assets/6491dd6a-5197-4e27-8b65-36e781b0525c" alt="Screenshot 1" width="360">
 
+<img src="https://github.com/user-attachments/assets/a6ceb97c-9652-4239-9ca8-bb22fcbf65e7" alt="Screenshot 1" width="360">
+
 
 
 
