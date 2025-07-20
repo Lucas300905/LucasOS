@@ -36,7 +36,7 @@
 1. On your Computer, download [LucasOS](link) and extract the zip
 2. On your Phone, hold `power button` and `volume down` simultaneously until you see the "Fastboot screen" 
 3. Connect your phone with a USB cable on your Computer
-4. Inside the rom folder, already extracted, **right click on your mouse and click on open a terminal here** and inside terminal you type **`chmod +x linux.sh`**
+4. Inside the rom folder, already extracted, **right click on your mouse and click on "open a terminal here"** and inside terminal you type **`chmod +x linux.sh`**
 5. Still on terminal, **type `./linux.sh`** to execute the installation script   
 6. The script will run and you will see a question asking for "boot type".
   - If you want your device to be pre-rooted with **Magisk Alpha**, **type `1`** and **hit `ENTER`**
