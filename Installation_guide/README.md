@@ -6,7 +6,7 @@
 **Advices:**
 - Don't forget to backup all your important data (phone will be formatted during the installation)
 - **It is Highly recommended to flash stock rom before flashing LucasOS to avoid any problem, especially if you are coming from an AOSP**
-- [Stock ROM]()
+- [Stock ROM](https://sourceforge.net/projects/lucasos/files/Stock%20rom/xaga_images_OS1.0.5.0.ULOCNXM_20240911.0000.00_14.0_cn_14e7db10ed.tgz/download)
 
 **Installation: (via Fastboot or via TWRP)**
 
