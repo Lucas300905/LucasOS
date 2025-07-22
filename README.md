@@ -39,7 +39,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 - [LucasOS RO - Link 1](https://drive.google.com/file/d/15N4jNOR5aCg3dHv1r8SjNJ7VYq5yn66M/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;[LucasOS RW - Link 1](https://drive.google.com/file/d/1sfLWIZTJ1EhAL1FVkSxghnYSc2_0MIQg/view?usp=sharing)
 - [LucasOS RO - Link 2](https://drive.google.com/file/d/1H9PSPdVPkq2E_VqO-eDhjIuHOxCUdWYo/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;[LucasOS RW - Link 2](https://drive.google.com/file/d/1X7uf3w-CI0hyJ9Y9ZS55BqIQOd0QLeoa/view?usp=sharing)
-- [LucasOS RO - Link 3](https://drive.google.com/file/d/1EEk9nHMZX7Uc2eCEREC3vw_-4WKvxhpW/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;[LucasOS RW - Link 3](link)
+- [LucasOS RO - Link 3](https://drive.google.com/file/d/1EEk9nHMZX7Uc2eCEREC3vw_-4WKvxhpW/view?usp=sharing)&nbsp;&nbsp;&nbsp;&nbsp;[LucasOS RW - Link 3](https://drive.google.com/file/d/1MStwcTpUFpSSoHGLNsryuD8QdA_oaPts/view?usp=sharing)
 
 ---
 
