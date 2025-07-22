@@ -12,7 +12,7 @@
 
 
 **Fastboot Method (Windows)**
-1. On your Computer, download [LucasOS](link) and extract the zip
+1. On your Computer, download [LucasOS](https://github.com/Lucas300905/LucasOS#-download-links) and extract the zip
 2. On your Phone, hold `power button` and `volume down` simultaneously until you see the "Fastboot screen" 
 3. Connect your phone with a USB cable on your Computer
 4. Inside the rom folder, already extracted, **find `windows.bat`** and **click it twice**
@@ -33,7 +33,7 @@
 
 
 **Fastboot Method (Linux)**
-1. On your Computer, download [LucasOS](link) and extract the zip
+1. On your Computer, download [LucasOS](https://github.com/Lucas300905/LucasOS#-download-links) and extract the zip
 2. On your Phone, hold `power button` and `volume down` simultaneously until you see the "Fastboot screen" 
 3. Connect your phone with a USB cable on your Computer
 4. Inside the rom folder, already extracted, **right click on your mouse and click on "open a terminal here"** and inside terminal you type **`chmod +x linux.sh`**
