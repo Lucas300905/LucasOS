@@ -9,7 +9,6 @@
 - Added Mod Launcher with IOS recents and other mods 
 - Added CTS working by default (Circle to Search by google)
 - Added Security Mod
-- Removed Joyose
 - Added Spoof to Max FPS on lots of games (Free fire: 120 fps, Cod: 120 fps on all modes, many more...)
 - Added touch sensibility props from @Jonathannjss
 - Added more Refresh Rate options (30hz, 48hz, 60hz, 90hz, 120hz and 144hz)
