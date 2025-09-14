@@ -15,6 +15,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 - 🖌️ **Unique Theme** (IOS battery icon, icon pack with animations, custom bootanimation...)
 - 👨‍💻 Fastboot script with **pre-root options and TWRP**
 - 🛡️ **Hard brick protection** ([Preloader](https://wiki.itsvixano.me/device_specific/preloader_xaga/) inbuilt)
+-    **"MEETS_STRONG_INTEGRITY"** passes by default
 - 😎 **EXT4 FULL RW** version available (for those who want to modify it further)
     
 - Read Changelog for more
@@ -49,7 +50,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## 🔐 Integrity and Certification
 
-**LucasOS passes Basic integrity by default, and you can get strong integrity by following this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26)** 
+**LucasOS passes Strong integrity by default ("MEETS_STRONG_INTEGRITY")
 
 ---
 
