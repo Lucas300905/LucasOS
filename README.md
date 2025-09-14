@@ -1,4 +1,4 @@
-# 📱 LucasOS v1.1 - for Poco X4 GT (Xaga)
+# 📱 LucasOS v1.2 - for Poco X4 GT (Xaga)
 
 ![LucasOS Banner](https://github.com/user-attachments/assets/6c7f74be-4ffd-4152-8fd6-a4e54d64409a)
 
