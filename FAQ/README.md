@@ -24,11 +24,11 @@ Yes you can use this TWRP on any HyperOS that comes with kernel 5.10.198, howeve
 
 ---
 
-Q: Can I root LucasOS? How can I certify it and use bank apps?
+Q: How is the integrity? How can I bypass banking apps? Can I root LucasOS? 
 
-A: Yes, you can root the rom with any method you want.
+A: The rom passes Strong Integrity by default ("MEETS_STRONG_INTEGRITY"), that means you probably wont have any problems with banking apps.
 
-The rom comes with strong integrity passing by default.
+Yes, you can root the rom with any method you want. Root itself wont affect integrity, but it might be detected by some banking apps. Just hide it properly
 
 ---
 
@@ -42,7 +42,6 @@ Q: Is LucasOS EROFS or EXT4? Why are there 6 download links?? Which one do I cho
 
 A: I made 2 versions of LucasOS and they are exactly the same except for the fact that "RO" version is made with EROFS filesystem and the "RW" version is made with EXT4 filesystem. If you don't know what EROFS and EXT4 means just choose the "RO" version. If you want to know more... EROFS and EXT4 are two types of filesystem, and they have some differences but the main one is that the EXT4 can make partitions with Read and Write permissions (RW), that means you can make direct changes into the system, like deleting any app or file you want in any place (product,system,vendor,...) **(But be very carefull with the modifications you do, because if you make any wrong modification you can get a bootloop and will have to format your phone to fix it)**
 
-Yes, there are 6 links to download LucasOS, thats because I made 2 versions (one is EROFS and the other is EXT4), and because Google drive has downloads limitation I did 3 links for each rom, so if one link isn't working just use other one.
 
 ---
 
@@ -50,6 +49,6 @@ Q: Does LucasOS have Multi-language? Does NFC works? Any bugs in the rom?
 
 A: Yes, LucasOS have multi-language support, you can choose whatever idiom you prefer.
 
-Yes, NFC works just fine, just make sure you followed the integrity [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26) to be able to do the payments without any problem
+Yes, NFC works just fine, if you make root just make sure you hide it properly so you will be able to do the payments without any problem
 
 No, I didn't find any bug in the rom, however please feel free to tell me if you found any or if you just want to give feedback or suggestions for updates. You can contact me on Telegram: @Lucas_3009 or at my group support: @Pocox4gtbrasil20
