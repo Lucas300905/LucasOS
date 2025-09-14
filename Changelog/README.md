@@ -1,4 +1,4 @@
-**LucasOS v1.1 Changelog**:
+**LucasOS v1.2 Changelog**:
 
 - First Hybrid rom for xaga! (can be flashed via fastboot or TWRP)
 - Added Gphotos Unlimited Storage
@@ -24,10 +24,10 @@
 - Added icon theme (with animations)
 - Added custom Bootanimation and Logo Mi
 - Added IOS font 
-- Added Gboard Lite latest version
+- Added Gboard mod with logo
 - Super Debloated
 - Preloader added 
-- Device pass on Basic Integrity (follow this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26) to get strong integrity)
+- Device pass on Strong Integrity by default ("MEETS_STRONG_INTEGRITY") 
 - Added Mod Package Installer from Kashi
 - Added Android Auto back
 - Fixed app vault not working
