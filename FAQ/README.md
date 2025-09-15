@@ -26,9 +26,9 @@ Yes you can use this TWRP on any HyperOS that comes with kernel 5.10.198, howeve
 
 Q: How is the integrity? How can I bypass banking apps? Can I root LucasOS? 
 
-A: The rom passes Strong Integrity by default ("MEETS_STRONG_INTEGRITY"), that means you probably wont have any problems with banking apps.
+A: The rom passes Basic Integrity by default ("MEETS_BASIC_INTEGRITY"). To get strong integrity you will have to use additional modules such as Trickystore and others. Follow this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26)
 
-Yes, you can root the rom with any method you want. Root itself wont affect integrity, but it might be detected by some banking apps. Just hide it properly
+Yes, you can root the rom with any method you want, but it might be detected by some banking apps. Just hide it properly
 
 ---
 
@@ -38,7 +38,7 @@ A: LucasOS is based on xiaomi.eu build, so it doesn't have notification delay at
 
 ---
 
-Q: Is LucasOS EROFS or EXT4? Why are there 6 download links?? Which one do I choose?
+Q: Is LucasOS EROFS or EXT4? Why are there 2 download links?? Which one do I choose?
 
 A: I made 2 versions of LucasOS and they are exactly the same except for the fact that "RO" version is made with EROFS filesystem and the "RW" version is made with EXT4 filesystem. If you don't know what EROFS and EXT4 means just choose the "RO" version. If you want to know more... EROFS and EXT4 are two types of filesystem, and they have some differences but the main one is that the EXT4 can make partitions with Read and Write permissions (RW), that means you can make direct changes into the system, like deleting any app or file you want in any place (product,system,vendor,...) **(But be very carefull with the modifications you do, because if you make any wrong modification you can get a bootloop and will have to format your phone to fix it)**
 
