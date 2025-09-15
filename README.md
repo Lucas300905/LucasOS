@@ -1,4 +1,4 @@
-# 📱 LucasOS v1.2 - for Poco X4 GT (Xaga)
+# 📱 LucasOS v1.1 - for Poco X4 GT (Xaga)
 
 ![LucasOS Banner](https://github.com/user-attachments/assets/6c7f74be-4ffd-4152-8fd6-a4e54d64409a)
 
@@ -15,7 +15,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 - 🖌️ **Unique Theme** (IOS battery icon, icon pack with animations, custom bootanimation...)
 - 👨‍💻 Fastboot script with **pre-root options and TWRP**
 - 🛡️ **Hard brick protection** ([Preloader](https://wiki.itsvixano.me/device_specific/preloader_xaga/) inbuilt)
-- ✅ **Strong Integrity** passes by default
+- ✅ **Basic Integrity** passes by default
 - 😎 **EXT4 FULL RW** version available (for those who want to modify it further)
     
 - Read Changelog for more
@@ -37,8 +37,8 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 ## 🌐 Download Links
 **(If you don't know what is RO (EROFS) and RW (EXT4) just download RO version. If you want to know more about it please read FAQ)**
 
-- [LucasOS RO](https://sourceforge.net/projects/lucasos/files/LucasOS%201.2%20RO/LucasOS%201.2%20%28RO%29.zip/download)
-- [LucasOS RW](https://sourceforge.net/projects/lucasos/files/LucasOS%201.2%20RW/LucasOS%201.2%20%28RW%29.zip/download)
+- [LucasOS RO](https://sourceforge.net/projects/lucasos/files/LucasOS%201.1%20RO/LucasOS%201.1%20%28RO%29.zip/download)
+- [LucasOS RW](https://sourceforge.net/projects/lucasos/files/LucasOS%201.1%20RW/LucasOS%201.1%20%28RW%29.zip/download)
   
 ---
 
@@ -50,9 +50,9 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 ## 🔐 Integrity and Certification
 
-**LucasOS passes Strong integrity by default ("MEETS_STRONG_INTEGRITY")**
+**LucasOS passes Basic integrity by default ("MEETS_BASIC_INTEGRITY")**
 
-You can root it if you want. Root itself wont affect integrity, but it might be detected by some banking apps. Just hide it properly
+If you want strong integrity you will have to root it and use additional modules such as trickystore and others. Follow this guide: https://telegra.ph/STRONG-INTEGRITY-FIX-05-26
 
 ---
 
