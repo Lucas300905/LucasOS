@@ -1,4 +1,4 @@
-**LucasOS v1.2 Changelog**:
+**LucasOS v1.1 Changelog**:
 
 - First Hybrid rom for xaga! (can be flashed via fastboot or TWRP)
 - Added Gphotos Unlimited Storage
@@ -27,7 +27,7 @@
 - Added Gboard mod with logo
 - Super Debloated
 - Preloader added 
-- Device pass on Strong Integrity by default ("MEETS_STRONG_INTEGRITY") 
+- Device pass on Basic Integrity by default ("MEETS_BASIC_INTEGRITY") 
 - Added Mod Package Installer from Kashi
 - Added Android Auto back
 - Fixed app vault not working
