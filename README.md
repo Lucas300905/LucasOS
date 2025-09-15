@@ -52,7 +52,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 **LucasOS passes Basic integrity by default ("MEETS_BASIC_INTEGRITY")**
 
-If you want strong integrity you will have to root it and use additional modules such as trickystore and others. Follow this guide: https://telegra.ph/STRONG-INTEGRITY-FIX-05-26
+If you want strong integrity you will have to root it and use additional modules such as trickystore and others. Follow this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26)
 
 ---
 
