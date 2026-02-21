@@ -1,4 +1,4 @@
-# 📱 LucasOS v1.1 - for Poco X4 GT (Xaga)
+# 📱 LucasOS v1.2 - for Poco X4 GT (Xaga)
 
 ![LucasOS Banner](https://github.com/user-attachments/assets/6c7f74be-4ffd-4152-8fd6-a4e54d64409a)
 
@@ -52,7 +52,7 @@ LucasOS is a custom ROM based on **xiaomi.eu build of HyperOS 1 (ULOCNXM OS1.0.5
 
 **LucasOS passes Basic integrity by default ("MEETS_BASIC_INTEGRITY")**
 
-If you want strong integrity you will have to root it and use additional modules such as trickystore and others. Follow this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26)
+If you want strong integrity you can easily get it by adding a keybox.xml in Kaorios ToolBox app (already included in the rom)
 
 ---
 
