@@ -1,9 +1,7 @@
-**LucasOS v1.1 Changelog**:
+**LucasOS v1.2 Changelog**:
 
 - First Hybrid rom for xaga! (can be flashed via fastboot or TWRP)
 - Added Gphotos Unlimited Storage
-- Removed Signature Verification (can install any mod system app)
-- Made system apps updatable
 - Added full TWRP Support (Can read storage)
 - Disabled Secure Flag (Bypass screenshot restrictions)
 - Added Mod Launcher with IOS recents and other mods 
@@ -31,3 +29,4 @@
 - Added Mod Package Installer from Kashi
 - Added Android Auto back
 - Fixed app vault not working
+- Added Kaorios ToolBox by default (you can get strong integrity easily just by adding a keybox.xml)
