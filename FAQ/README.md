@@ -26,7 +26,7 @@ Yes you can use this TWRP on any HyperOS that comes with kernel 5.10.198, howeve
 
 Q: How is the integrity? How can I bypass banking apps? Can I root LucasOS? 
 
-A: The rom passes Basic Integrity by default ("MEETS_BASIC_INTEGRITY"). To get strong integrity you will have to use additional modules such as Trickystore and others. Follow this [guide](https://telegra.ph/STRONG-INTEGRITY-FIX-05-26)
+A: The rom passes Basic Integrity by default ("MEETS_BASIC_INTEGRITY"). To get strong integrity you will have to add a keybox.xml in Kaorios ToolBox app.
 
 Yes, you can root the rom with any method you want, but it might be detected by some banking apps. Just hide it properly
 
